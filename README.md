@@ -40,13 +40,3 @@ This project is licensed by MIT – see the [Licence.md](LICENSE) file for more 
 
 * Tell others about this project 📢
 
-  
-
-
-
-
----
-⌨️ con ❤️ por [erickcernar](https://github.com/erickcernarequejo) 😊
-
-file:///mnt/ostrich/Dropbox/PROJECTS-SRC-DROPBOX/SHOPPING-CARTS/ONE/Carrito-Compras-JavaScript/index.html#
-
